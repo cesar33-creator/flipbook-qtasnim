@@ -597,7 +597,7 @@
     display: inline;
     cursor: pointer;
     background: none;
-    transition: : all .1s ease-out;
+    transition: all .1s ease-out;
     -webkit-transition: all .1s ease-out;
     -moz-transition: all .1s ease-out;
     -o-transition: all .1s ease-out;
@@ -729,7 +729,7 @@
     top: 0;
     width: 250px;
     bottom: 0;
-    transition: : all .3s ease-out;
+    transition: all .3s ease-out;
     -webkit-transition: all .3s ease-out;
     /* Chrome 1-25, Safari 3.2+ */
     -moz-transition: all .3s ease-out;
@@ -749,7 +749,7 @@
     top: 0;
     width: 250px;
     bottom: 0;
-    transition: : all .3s ease-out;
+    transition:  all .3s ease-out;
     -webkit-transition: all .3s ease-out;
     /* Chrome 1-25, Safari 3.2+ */
     -moz-transition: all .3s ease-out;
@@ -1678,11 +1678,6 @@
     cursor: -moz-grab;
     cursor: -webkit-grab;
 }
-
-
-
-
-
 
 
 /* Copyright 2014 Mozilla Foundation
